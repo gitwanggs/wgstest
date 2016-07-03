@@ -7,6 +7,8 @@ public class ProTestMain {
 		System.out.println("Hello Wrold!");
 		System.out.println("Hello add by git2!");
 		System.out.println("Hello add by git2_1");
+		System.out.println("Hello add by git1_1");
+		System.out.println("Hello add by git2_2!");
 	}
 
 }
